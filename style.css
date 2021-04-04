@@ -1,0 +1,53 @@
+.text{
+    background-image:URL("https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png");
+    background-size: 272px 92px;
+    background-repeat: no-repeat;
+    width:272px;
+    height: 92px;
+    margin-top: 75px;
+    text-align: center;
+    margin-left: 624px;
+    }
+.search{
+    text-align:justify;
+    margin-top: 23px;
+    width: 15.3cm;
+    height: 42px;
+    border-radius: 100px;
+    border-color: rgb(230, 230, 230);
+    border-style:solid;
+    border-width: 1px;
+    
+}
+.search:hover{
+    border-style: none;
+    box-shadow: 2px 1px 1px 1px #ccc;
+}
+.submit{ 
+
+    text-align: center;
+    margin-top:27px;
+    margin-left: 618px;
+    background-color:rgb(246, 246, 246);
+    border-color:rgb(246, 246, 246);
+    border-style:unset;
+    height:37px;
+    width:auto; 
+    font-size:14px;
+    border-radius: 5px;
+}
+.submit:hover{
+    border-style:solid;
+    border-width: 1px;
+    border-color:rgb(210, 210, 210);
+}
+.logo{
+    background-image:URL("https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png");
+    background-size: 90px 32px;
+    background-repeat: no-repeat;
+    width:90px;
+    height: 31px;
+    margin-top: 10px;
+    text-align: center;
+    margin-left: -20px;
+}
